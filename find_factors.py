@@ -6,7 +6,7 @@ def factors(b):
 			
 if __name__ == '__main__' :
 
-	b = input ('yor number please: ')
+	b = input ('Your #: ')
 	b = float(b)
 	
 	if b > 0 and b.is_integer():
