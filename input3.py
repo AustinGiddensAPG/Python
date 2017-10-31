@@ -1,4 +1,4 @@
-print("INPUT THREE NUMBERS")
+print("Input 3 Numbers")
 A = float(input(" A ; "))
 B = float(input(" B ; "))
 C = float(input(" C ; "))
